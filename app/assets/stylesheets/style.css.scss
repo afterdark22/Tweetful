@@ -1,9 +1,12 @@
+
 body {
+  background-image: url('http://mia365.com/wp-content/uploads/2015/03/jb.jpg');
+  background-repeat: no-repeat;
   background-attachment: scroll;
   background-clip: border-box;
   background-color: rgba(0, 0, 0, 0);
   background-origin: padding-box;
-  //background-size: auto;
+  background-size: cover;
   color: rgb(51, 51, 51);
   direction: ltr;
   display: block;
