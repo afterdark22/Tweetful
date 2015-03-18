@@ -11,8 +11,11 @@
  *= require_self
  *= require_tree .
  */
-body {
-       background-image:url('http://mia365.com/wp-content/uploads/2015/03/jb.jpg')
-      
-}
-
+body
+    { background:url('http://mia365.com/wp-content/uploads/2015/03/jb.jpg') no-repeat;
+      background-position: center; 
+      -webkit-background-size: contain;
+      -moz-background-size: contain;
+      -o-background-size: contain; background-size: contain; }
+  
+    }
